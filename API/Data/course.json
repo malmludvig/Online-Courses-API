@@ -1,0 +1,43 @@
+[
+  {
+    "CourseName": "Lära sig att fiska",
+    "CourseNumber": 25123,
+    "IsRetired": false
+  },
+
+  {
+    "CourseName": "Matlagningskunskap 1",
+    "CourseNumber": 49990,
+    "IsRetired": false
+  },
+  
+  {
+    "CourseName": "Molndatabaser",
+    "CourseNumber": 11139,
+    "IsRetired": false
+  },
+
+  {
+    "CourseName": "Continous Integration",
+    "CourseNumber": 92479,
+    "IsRetired": false
+  },
+
+  {
+    "CourseName": "Systematisk Applikationsutveckling med C#",
+    "CourseNumber": 94442,
+    "IsRetired": false
+  },
+
+  {
+    "CourseName": "Grundläggande Frontendutveckling",
+    "CourseNumber": 11224,
+    "IsRetired": false
+  },
+
+  {
+    "CourseName": "Objektorienterad programmering med C#",
+    "CourseNumber": 66667,
+    "IsRetired": false
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "FirstName": "Ludvig",
+    "LastName": "Malm",
+    "Email": "malmludvig@gmail.com",
+    "PhoneNumber": "0768292829",
+    "Address": "Göteborg"
+  },
+
+  {
+    "FirstName": "Peter",
+    "LastName": "Johansson",
+    "Email": "pejo@gmail.com",
+    "PhoneNumber": "0704349672",
+    "Address": "Ljungskile"
+  },
+  
+  {
+    "FirstName": "Einar",
+    "LastName": "Smederöd",
+    "Email": "khaldrogo@gmail.com",
+    "PhoneNumber": "0786421124",
+    "Address": "Stockholm"
+  },
+
+  {
+    "FirstName": "Mikael",
+    "LastName": "Vaihela",
+    "Email": "mikael.vaihela@jenseneducation.se",
+    "PhoneNumber": "0737733104",
+    "Address": "Göteborg"
+  },
+
+  {
+    "FirstName": "Axel",
+    "LastName": "Skogberg",
+    "Email": "axel.skogberg@jenseneducation.se",
+    "PhoneNumber": "0737733157",
+    "Address": "Göteborg"
+  }
+]
